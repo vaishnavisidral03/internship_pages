@@ -1,0 +1,24 @@
+.form1{
+    text-align: center;
+}
+
+.p{
+    color: blueviolet;
+    font-size: large;
+    font-style: italic;
+    
+}
+.btn1{
+   
+    height: max-content;
+    width: max-content;
+    position: fixed;
+    border: 2ch;
+    background-color: white;
+    border-style: none;
+    
+}
+.borderremove{
+    border-style: none !important;
+    
+}
