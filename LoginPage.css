@@ -1,0 +1,87 @@
+.nav{
+    text-align: right;
+    color: #800080;
+    padding-left: 5px;
+    margin-left: 30px;
+}
+.title{
+    margin-left: 5px;
+
+}
+.nav1{
+    background-color: purple;
+    color: white; 
+    padding-left: 280px;
+}
+.app{
+    color: #800080;
+}
+.div1{
+    width: 100px;
+}
+.div2{
+    width: 100px;
+}
+.form{
+    position: center;
+    align-content: center;
+}
+.in{
+    width: 350px;
+    margin-bottom: 15px;
+    height: 40px;
+    margin-left: 10px;
+}
+.btn{
+    background-color: purple;
+    display: flex;
+    width: 350px;
+    margin-left: 10px;
+    color: white;
+    height: 40px;    
+    align-items: center;
+    text-align: center;
+    border-radius: 3px;
+}
+.btn1
+{
+    width: 350px;
+    background-color: rgb(219, 213, 213);
+    text-align: center;
+    border: none;
+    margin: 10px;
+    height: 35px;
+    position: relative;
+    height: 40px;
+}
+.btn2{
+    width: 350px;
+    background-color: rgb(219, 213, 213);
+    text-align: center;
+    size: 20px;
+    border: none;
+    margin: 10px;
+    height: 35px;
+    position: relative;
+    height: 40px;
+    margin-left: 10px;
+    position:relative;
+    
+}
+.img{
+    width: 150px;
+    height: 150px;
+    position:left;
+}
+.table{
+    border: 0ch;
+}
+.con1{
+    margin-left: 160px;
+}
+.con{
+    margin-left: 150px;
+}
+.account{
+    color: rgb(101, 101, 221);
+}

@@ -1,0 +1,59 @@
+.nav{
+    text-align: right;
+    color: #800080;
+    padding-left: 5px;
+    margin-left: 30px;
+}
+.btn{
+    background-color: purple;
+    display: flex;
+    width: 350px;
+    margin-left: 10px;
+    color: white;
+    /* text-align: "center"; */
+    height: 40px;    
+    align-items: center;
+}
+.hr{
+    margin-left: 10px;
+    width: 160px;
+    text-align: center;
+    display: flex;
+}
+.hrs{
+    display: flex;
+    text-align: center;
+}
+.hr1{
+    margin-left: 20px;
+    width: 120px;
+    text-align: left;
+    /* display: inline; */
+}
+.logins{
+    color:rgb(101, 101, 221) ;
+}
+.btns
+{
+    width: 350px;
+    background-color: rgb(219, 213, 213);
+    text-align: center;
+    border: none;
+    margin: 10px;
+    height: 35px;
+    position: relative;
+    height: 40px;
+}
+.btn2{
+    background-color: rgb(219, 213, 213);
+}
+.btn3{
+    width: 350px;
+    background-color: rgb(219, 213, 213);
+    text-align: center;
+    border: none;
+    margin: 10px;
+    /* height: 35px; */
+    position: relative;
+    height: 40px;
+}
